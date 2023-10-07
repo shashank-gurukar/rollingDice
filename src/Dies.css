@@ -1,0 +1,27 @@
+.Dies button{
+    width:15 em;
+    padding: 1.5em;
+    border: 0px;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: black;
+    margin-top: 3em;
+    align-self: center;
+
+
+}
+.Dies button:hover{
+    background-color: darkslateblue;
+    cursor: pointer;
+
+}
+.Dies{
+    display: flex;
+    flex-flow: column nowrap;
+   
+}
+.Roll-container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
